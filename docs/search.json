@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "“Paper and pencil provide an unlimited extension of the problem solver’s working memory capacity, but at the cost of writing down the information (which can be done more rapidly than it can be memorized) and of gaining access to it when it is needed.”  \n_Expert and Novice Performance in Solving Physics Problems_  \n- Simon, Larkin, McDermott, and Simon, 1980",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-09T23:16:03-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Casey's External Working Memory",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-02-09T23:16:23-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

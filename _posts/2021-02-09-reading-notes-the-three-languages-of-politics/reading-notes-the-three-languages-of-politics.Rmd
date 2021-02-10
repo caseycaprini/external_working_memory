@@ -1,0 +1,55 @@
+---
+title: "Reading Notes: 'The Three Languages of Politics'"
+description: |
+  Tags: Arnold Kling, Political Economy
+author:
+  - name: Casey Caprini
+date: 02-09-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+### Book Info
+["The Three Languages of Politics: Talking Accross the Political Divides"](https://www.amazon.com/Three-Languages-Politics-Talking-Political/dp/1948647427/)
+
+by Arnold Kling (3^rd^ Edition)  
+
+
+### Thesis  
+
+Political languages evolved in context of tribal gamesmanship. The languages enable political communication in a manner that effectively signals to our own political tribes; not being understood by other tribes is a feature and not a bug.  
+
+A three-axis model is posited that describes the predominate paradigm that frames each tribe’s political communications.  
+
+1. Progressive Axis: Oppressor <---> Oppressed  
+2. Conservative Axis: Civilization <---> Barbarism  
+3. Libertarian Axis: Liberty <---> Coercion  
+
+### Quick Guide to the Groups 
+
+Group         | Believe in        | Revere     | View markets as  
+--------------|-------------------|------------|---------------------
+Progressives  | Human betterment  | Science    | Unfair  
+Conservatives | Human weakness    | The past   | Virtuous  
+Libertarians  | Human rationality | Technology | Peaceful cooperation  
+
+### Why It Matters  
+
+Family, enduring friendship, meaningful shared work, and local communities are declining. Political tribalism is expanding to fill the resulting void.  
+
+Motivated reasoning occurs instinctively and at an unconscious level. Open-minded reasoning requires effort and an ability to understand other political languages; such fluency allows disagreement without conflict.  
+
+### On Reasonable Disagreement  
+Good-faith disagreements can occur between coherent, reasonable points of view. Rather than questioning the reasonability of an opposing view, a better question may be whether its application is appropriate for the circumstances.  
+
+Heuristic:  
+
+> "The only person you are qualified to pronounce unreasonable is yourself."  
+

@@ -1,0 +1,11 @@
+---
+title: "About"
+description: |
+  “Paper and pencil provide an unlimited extension of the problem solver’s working memory capacity, but at the cost of writing down the information (which can be done more rapidly than it can be memorized) and of gaining access to it when it is needed.”  
+  _Expert and Novice Performance in Solving Physics Problems_  
+  - Simon, Larkin, McDermott, and Simon, 1980
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

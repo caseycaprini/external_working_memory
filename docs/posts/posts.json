@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-02-09-reading-notes-specialization-and-trade/",
+    "title": "Reading Notes: 'Specialization and Trade'",
+    "description": "Tags: Arnold Kling, Political Economy",
+    "author": [
+      {
+        "name": "Casey Caprini",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-09",
+    "categories": [],
+    "contents": "\r\nBook Info\r\n“Specialization and Trade: A Re-introduction to Economics”\r\nby Arnold Kling\r\nThesis\r\nThe economy is best viewed as a set of patterns of sustainable specialization and trade (PSST).\r\nSpecialization should replace scarcity and choice as the most fundamental aspect of economics.\r\n\r\n“The work you do probably does not produce something you could consume. Even more striking is the fact that almost everything you consume is something you could not produce.”\r\n\r\nSpecialized, roundabout production in modern economies implies:\r\nstrong interdependence among firms and\r\nfinancial intermediation embedded in nearly every business.\r\nEconomics Models as Interpretative Frameworks\r\nEconomic models are best viewed as interpretive frameworks; they do not make falsifiable predictions. Causal density and evolution make model assumptions hard to validate and predictions very context dependent.\r\nThe Inadequate Metaphor of the Machine\r\nThe predominate view treats the economy as a machine that can be engineered using the mathematics of constrained optimization and the psychology of Behaviorism.\r\nA better metaphor is a computer network.\r\nCharacterized by emergent behavior\r\n“Software” (i.e., individual and collective knowledge) is at least as important as “hardware”\r\nUnemployment as an Adjustment Problem\r\nUnemployment can be viewed as a combination of static and dynamic adjustment problems.\r\nStatic: Mismatching and mispricing with a given job structure\r\nDynamic: Entrepreneurs must discover new patterns of specialization and trade by trial and error\r\nIn the PSST framework, the dynamic adjustment problem is the more significant. It is beyond the reach of the metaphor of the machine and has evolutionary characteristics. Permanent job losses are only remedied by discovering new PSST and creating jobs that do not yet exist.\r\nUnderstanding the Subsidize Demand/Restrict Supply Pattern\r\nThe “subsidize demand/restrict supply” prescription for perceived market failures is inconsistent with conventional theories of market failure but common in public policy.\r\nSpecialization implies individual productivity strongly depends on how its combined with other tasks/inputs. Individual well-being is much more greatly affected by the market for what one produces rather than the market for the variety of goods one consumes. Therefore, concentrated interests more naturally form on the supply side of markets.\r\nThus, the “subsidize demand/restrict supply” pattern in public policy follows easily from a PSST/public choice framework.\r\nFluctuations as Reputational Minsky Cycles\r\nSpecialized, roundabout production implies that financial intermediation is embedded in nearly all industries/firms. Financial intermediaries also perform risk transformation. To be useful, they are necessarily opaque—reputations must matter in finance.\r\nFluctuations can be understood as reputational Minsky cycles of the financial industry.\r\nHedge Phase: Following downturn, reputations are low. This induces conservative behavior, and reputations begin to improve.\r\nSpeculative Phase: Investment increases. More risky, but mostly sound projects are financed. Losses can be covered by gains or obscured. Reputations continue to improve.\r\nPonzie Phase: Reputations are undeservedly high. Increasing levels of investment lead to increasingly unsound project to be financed. Losses accumulate and begin to reach savers. Reputations collapse.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-09T23:16:44-05:00",
+    "input_file": "reading-notes-specialization-and-trade.utf8.md"
+  },
+  {
+    "path": "posts/2021-02-09-reading-notes-the-three-languages-of-politics/",
+    "title": "Reading Notes: 'The Three Languages of Politics'",
+    "description": "Tags: Arnold Kling, Political Economy",
+    "author": [
+      {
+        "name": "Casey Caprini",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-09",
+    "categories": [],
+    "contents": "\r\nBook Info\r\n“The Three Languages of Politics: Talking Accross the Political Divides”\r\nby Arnold Kling (3rd Edition)\r\nThesis\r\nPolitical languages evolved in context of tribal gamesmanship. The languages enable political communication in a manner that effectively signals to our own political tribes; not being understood by other tribes is a feature and not a bug.\r\nA three-axis model is posited that describes the predominate paradigm that frames each tribe’s political communications.\r\nProgressive Axis: Oppressor <—> Oppressed\r\nConservative Axis: Civilization <—> Barbarism\r\nLibertarian Axis: Liberty <—> Coercion\r\nQuick Guide to the Groups\r\nGroup\r\nBelieve in\r\nRevere\r\nView markets as\r\nProgressives\r\nHuman betterment\r\nScience\r\nUnfair\r\nConservatives\r\nHuman weakness\r\nThe past\r\nVirtuous\r\nLibertarians\r\nHuman rationality\r\nTechnology\r\nPeaceful cooperation\r\nWhy It Matters\r\nFamily, enduring friendship, meaningful shared work, and local communities are declining. Political tribalism is expanding to fill the resulting void.\r\nMotivated reasoning occurs instinctively and at an unconscious level. Open-minded reasoning requires effort and an ability to understand other political languages; such fluency allows disagreement without conflict.\r\nOn Reasonable Disagreement\r\nGood-faith disagreements can occur between coherent, reasonable points of view. Rather than questioning the reasonability of an opposing view, a better question may be whether its application is appropriate for the circumstances.\r\nHeuristic:\r\n\r\n“The only person you are qualified to pronounce unreasonable is yourself.”\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-09T23:17:07-05:00",
+    "input_file": "reading-notes-the-three-languages-of-politics.utf8.md"
+  }
+]
