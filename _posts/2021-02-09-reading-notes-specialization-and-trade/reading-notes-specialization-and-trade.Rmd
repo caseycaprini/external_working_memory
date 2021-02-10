@@ -70,5 +70,5 @@ Specialized, roundabout production implies that financial intermediation is embe
 Fluctuations can be understood as reputational Minsky cycles of the financial industry.  
 
 1. Hedge Phase: Following downturn, reputations are low. This induces conservative behavior, and reputations begin to improve.  
-2. Speculative Phase: Investment increases. More risky, but mostly sound projects are financed. Losses can be covered by gains or obscured. Reputations continue to improve.  
-3. Ponzie Phase: Reputations are undeservedly high. Increasing levels of investment lead to increasingly unsound project to be financed. Losses accumulate and begin to reach savers. Reputations collapse.  
+2. Speculative Phase: Investment increases. More risky but mostly sound projects are financed. Losses can be covered by gains or obscured. Reputations continue to improve.  
+3. Ponzie Phase: Reputations are undeservedly high. Increasing levels of investment lead to increasingly unsound projects being financed. Losses accumulate and begin to reach savers. Reputations collapse.  
