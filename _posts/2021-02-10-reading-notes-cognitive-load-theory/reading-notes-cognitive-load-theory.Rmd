@@ -1,0 +1,88 @@
+---
+title: "Reading Notes: 'Cognitive Load Theory'"
+description: |
+  Tags: John Sweller, Educational Pyschology, Cognitive Psychology
+author:
+  - name: Casey Caprini
+date: 02-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Book Info
+
+[“Cognitive Load Theory”](https://www.amazon.com/Cognitive-Explorations-Instructional-Performance-Technologies/dp/144198125X)  
+by John Sweller, Paul Ayres, and Slava Kalyuga  
+
+### Thesis
+
+For complicated learning content (i.e., biologically secondary, high intrinsic load), instructional design is important to prevent excessive load on our working memory by  
+
+1. Reducing extraneous load by designing instruction with working memory and learner expertise in mind, and
+2. Managing intrinsic load through sequencing and matching tasks to learner’s expertise.  
+
+### Human Cognitive Architecture
+
+Working memory is extremely limited in capacity and duration.
+
+* Processing Function: Organizing, combining, comparing, and manipulating information.  Limited to 2-3 pieces of novel information.
+* Storage Function: Store intermediate products of cognition
+* Multiple Processors: Most models include one processor for auditory information and one for visual information.  
+
+Long-term memory (LTM) has no obvious capacity or duration limits.  
+
+### Learning as Borrowing and Imitation
+
+Imitation is the basic method of information transfer; other methods (e.g., listening, reading) are essentially derivatives of imitation.  
+
+Learners flatten aspects of information that are not similar to knowledge in LTM and sharpen aspects that correspond to information in LTM.  
+
+### Definitions
+
+_Intrinsic Cognitive Load_: load imposed by basic structure of the information that must be acquired to achieve learning goals  
+
+_Extraneous Cognitive Load_: load imposed solely by the instructional procedures used  
+
+_Interacting Elements_: elements that must be processed simultaneously in working memory because they are logically related  
+
+_Understanding_: ability to process interacting elements associated with a concept simultaneously in working memory  
+
+* The difference between learning with understanding and learning by rote is _quantitative_ (i.e., understanding the ability to handle larger amounts of element interactivity), not _qualitative_.
+
+### Instructional Effects
+
+1. Goal-free Effect -- In constrained problem spaces, goal-free problems reduce extraneous load of goal-to-given means-end analysis characteristic of novices.  
+
+2. Worked Example Effect -- For novices, well-constructed worked examples reduce extraneous load by directly providing problem solving schemas.  
+    + Particularly well-suited to domains where algorithms can be applied.  
+    + Study/Solve Strategy: worked example study efficient when followed by solving a similar problem.  
+
+3. Split-attention Effect -- Splitting attention between two sources of information---each unintelligible in isolation---separated spatially or temporally imposes extraneous load.  
+    + Integrate text in a diagram  
+    + Verbal and visual information can presented simultaneously in integrated form
+
+4. Modality Effect -- Working memory can be effectively increased by using both the visual and auditory channels to present information that is unintelligible in isolation. Mayer’s Theory of Multimedia Learning suggests meaningful learning occurs when the learner actively connects mental representations of verbal and pictorial information.  However, lengthy, complex content should be written, not spoken.  
+
+5. Redundancy Effect -- Presenting information that re-describes another fully intelligible representation imposes extraneous cognitive load. Presenting information that is not required for learning (given the learner’s expertise) is also redundant.  
+
+6. Expertise Reversal Effect -- Information that is required for novice learners can be redundant for experts, imposing extraneous cognitive load.  
+
+7. Guidance Fading Effect -- As learners develop expertise, the amount of direct guidance should be reduced to prevent imposing extraneous cognitive load.  
+
+8. Imagination Effect -- For learners with requisite expertise, imagining a procedure or concept results in more learning than studying the procedure or concept.  
+
+9. Self-explanation Effect -- Learners who process an example by explaining and providing justification for each “move” learn more than students who process surface structures only.  
+
+10. Element Interactivity Effect -- Reducing extraneous cognitive load is increasingly important for content with high element interactivity (i.e., high intrinsic load).  
+
+11. Isolated Element Effect -- Removing some interacting elements to create a sequence of non-interacting elements can prevent excessive intrinsic load.  
+
+12. Variability Effect -- For learners with requisite expertise, varying the deep structure of a problem increases intrinsic load and improves learning outcomes.  
+
+13. Transient Information Effect -- Learning loss can occur when information disappears before the learner can adequately process it or link it with other information.  
