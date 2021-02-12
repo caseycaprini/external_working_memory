@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2021-02-12-reading-notes-making-good-progress/",
+    "title": "Reading Notes: 'Making Good Progress?'",
+    "description": "Tags: Daisy Christodoulou, Educational Psychology",
+    "author": [
+      {
+        "name": "Casey Caprini",
+        "url": {}
+      }
+    ],
+    "date": "2021-02-12",
+    "categories": [],
+    "contents": "\r\nBook Info\r\n“Making Good Progress? The Future of Assessment for Learning”\r\nby Daisy Christodoulou\r\nThesis\r\nAssessment for Learning has failed to deliver significant improvements in UK schools because it has inadvertently become Assessment of Learning.\r\nPartially due to government involvement in accountability efforts\r\nSignificantly due to “generic skill” pedagogy that predominates school systems\r\nAssessment of Learning is built on harnessing feedback from (formative) assessment to increase progress: implementation has been plagued by “accurate but not useful” feedback.\r\nGeneric Skill Method vs Deliberate Practice Method\r\nGeneric Skill Method: complex skills, such as problem solving, communication, or critical thinking, are discrete and can be taught directly\r\nDeliberate Practice Method: complex skills—including learning itself—are dependent on large bodies of detailed, domain-specific content knowledge\r\nImplications for assessment\r\nFrom the Generic Skill perspective, similar tasked are used for summative and formative assessments.\r\nFrom the Deliberate Practice perspective, formative tasks are intentionally much narrower and more specific than summative assessment tasks.\r\n\r\n“The aim of performance is to use mental models. The aim of learning is to create them.”\r\n\r\nSummative vs Formative Assessment\r\nSummative Assessment –\r\nJudge the extent of learning for purpose of grading or certification\r\nCreate a shared meaning that goes beyond the context in which it is made\r\nStandard conditions (including external help)\r\nDiscriminating items\r\nRepresentative enough sample\r\nScaled scores (if practical)\r\n\r\nFormative Assessment –\r\nProvide useful consequences to inform what should be done next\r\nSpecific\r\nFrequent\r\nRepetitive\r\nRecord as raw marks\r\n\r\nValidity vs Reliability\r\nValidity – process of evaluating the inferences drawn from the results of an assessment\r\nReliability – amount of inconsistency between one measurement and the next\r\nMaking assessment tasks more authentic can reduce reliability. However, validity is about the inferences from test results—not the test itself. Therefore, reliability is a prerequisite for validity.\r\nMiscellaneous Ideas\r\nWillingham’s What to Remember –\r\nKnowledge and skills used over and over\r\nKnowledge needed to enable long-term of key concepts\r\nKnowledge important enough to remember later in life\r\n\r\nGoodhart’s Law – When a measure becomes a target, it loses value as a measure.\r\nKuhn’s Exemplars – For many concepts, their meaning is better defined by a community’s accepted set of examples—concrete problems with solutions—than through prose definition.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-12T00:45:02-05:00",
+    "input_file": "reading-notes-making-good-progress.utf8.md"
+  },
+  {
     "path": "posts/2021-02-10-reading-notes-cognitive-load-theory/",
     "title": "Reading Notes: 'Cognitive Load Theory'",
     "description": "Tags: John Sweller, Educational Pyschology, Cognitive Psychology",

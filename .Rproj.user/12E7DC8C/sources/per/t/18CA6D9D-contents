@@ -1,0 +1,85 @@
+---
+title: "Reading Notes: 'Making Good Progress?'"
+description: |
+  Tags: Daisy Christodoulou, Educational Psychology
+author:
+  - name: Casey Caprini
+date: 02-12-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Book Info
+
+[“Making Good Progress? The Future of Assessment for Learning”]( https://www.amazon.com/Making-Good-Progress-Assessment-Learning/dp/0198413602)  
+by Daisy Christodoulou
+
+### Thesis
+
+Assessment for Learning has failed to deliver significant improvements in UK schools because it has inadvertently become Assessment of Learning.  
+
+1. Partially due to government involvement in accountability efforts
+2. Significantly due to “generic skill” pedagogy that predominates school systems  
+
+Assessment of Learning is built on harnessing feedback from (formative) assessment to increase progress: implementation has been plagued by “accurate but not useful” feedback.  
+
+### Generic Skill Method vs Deliberate Practice Method
+
+_Generic Skill Method_: complex skills, such as problem solving, communication, or critical thinking, are discrete and can be taught directly  
+
+_Deliberate Practice Method_: complex skills---including learning itself---are dependent on large bodies of detailed, domain-specific content knowledge  
+
+Implications for assessment  
+
+* From the Generic Skill perspective, similar tasked are used for summative and formative assessments.  
+* From the Deliberate Practice perspective, formative tasks are intentionally much narrower and more specific than summative assessment tasks.  
+
+> “The aim of performance is to use mental models. The aim of learning is to create them.”
+
+### Summative vs Formative Assessment
+
+_Summative Assessment_ --  
+
+* Judge the extent of learning for purpose of grading or certification
+* Create a shared meaning that goes beyond the context in which it is made
+
+    1. Standard conditions (including external help)
+    2. Discriminating items
+    3. Representative enough sample
+    4. Scaled scores (if practical)
+
+_Formative Assessment_ --  
+
+* Provide useful consequences to inform what should be done next
+
+    1. Specific
+    2. Frequent
+    3. Repetitive
+    4. Record as raw marks
+
+### Validity vs Reliability
+
+_Validity_ -- process of evaluating the inferences drawn from the results of an assessment  
+
+_Reliability_ -- amount of inconsistency between one measurement and the next  
+
+Making assessment tasks more authentic can reduce reliability.  However, validity is about the inferences from test results---not the test itself. Therefore, reliability is a prerequisite for validity.  
+
+### Miscellaneous Ideas
+
+* _Willingham's What to Remember_ --  
+
+    1. Knowledge and skills used over and over
+    2. Knowledge needed to enable long-term of key concepts
+    3. Knowledge important enough to remember later in life  
+
+* _Goodhart’s Law_ -- When a measure becomes a target, it loses value as a measure.  
+
+* _Kuhn’s Exemplars_ -- For many concepts, their meaning is better defined by a community’s accepted set of examples---concrete problems with solutions---than through prose definition.  
+
